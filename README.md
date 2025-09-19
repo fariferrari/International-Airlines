@@ -1,8 +1,6 @@
 # International-Airlines
 
-## Установка зависимостей:
-```bash
-pip install -r requirements.txt
+
 
 # ✈️ International-Airlines — SkyAnalytics
 
