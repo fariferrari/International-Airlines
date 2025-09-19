@@ -23,7 +23,7 @@
 
 ## 🗂️ ER Diagram
 
-<img width="910" height="531" alt="image" src="https://github.com/user-attachments/assets/82fb8878-64c3-4725-b603-0b02ce359500.png" />
+<img width="910" height="531" alt="image" src="https://github.com/fariferrari/International-Airlines/blob/main/International%20Airport%20ERD.pdf" />
 
 **Основные сущности проекта:**
 
