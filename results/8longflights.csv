@@ -1,0 +1,11 @@
+"flight_id","flight_no","airline_name","departure_airport","arrival_airport","actual_departure","actual_arrival","duration_days"
+181,"US-TN","HYL","Tom Price Airport","Armidale Airport","2023-03-25","2024-03-06",347
+638,"CN-61","IFH","Longana Airport","Industrial Airpark","2023-04-02","2024-03-09",342
+967,"AR-J","HYL","Garbaharey Airport","Longana Airport","2023-03-30","2024-03-02",338
+584,"NO-14","YHB","Akunaq Heliport","Armidale Airport","2023-03-22","2024-02-19",334
+518,"PE-HUC","XLU","Lime Acres Finsch Mine Airport","Ocean Falls Seaplane Base","2023-03-30","2024-02-26",333
+194,"US-IA","QIG","Industrial Airpark","Tom Price Airport","2023-04-02","2024-02-26",330
+611,"PY-16","SSL","Hana Airport","Akunaq Heliport","2023-04-23","2024-03-11",323
+524,"SB-RB","CSC","Fort Worth Alliance Airport","Henri CoandДѓ International Airport","2023-04-19","2024-03-07",323
+331,"PG-MPM","YEK","Lime Acres Finsch Mine Airport","Armidale Airport","2023-04-23","2024-03-11",323
+537,"US-IN","YDQ","Figari Sud-Corse Airport","Darchula Airport","2023-03-25","2024-02-09",321
